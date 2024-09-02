@@ -1,0 +1,19 @@
+/* styles.css */
+.customCardGroup {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    background-color: #e8e8e8; /* Gri arka plan rengi */
+    padding: 20px;
+    margin: 10px auto;
+}
+.customCard {
+    background-color: #d3d3d3; /* Kartların arka plan rengini açık gri yapar */
+}
+.custombg {
+    background-color: #f2f2f2; /* Açık gri renk */
+  }
+
+  /* Disabled satır */
+
+
+
