@@ -19,3 +19,5 @@ Ardından ganache truffle ve hdwalet gibi kütüphaneleri kurmak için bu kodu �
 Uygulama içinde rahat bir ekilde gezinmek için link vermeye yarayan kütüphaneyi yüklemek için bu kodu çalıştırın
 
 `npm install next-routes --legacy-peer-deps`
+
+### Projeye Ait Bazı Görseller
