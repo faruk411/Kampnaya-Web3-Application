@@ -20,4 +20,4 @@ Uygulama içinde rahat bir ekilde gezinmek için link vermeye yarayan kütüphan
 
 `npm install next-routes --legacy-peer-deps`
 
-### Projeye Ait Bazı Görseller
+## Projeye Ait Bazı Görseller
